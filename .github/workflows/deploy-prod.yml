@@ -19,7 +19,7 @@ jobs:
           port: 22
           script: |
             set -e
-            cd /var/www/pulsemaker
+            cd /var/www/PulseMaker-Webside
             git fetch origin
             git reset --hard origin/main
             git pull --rebase origin main
