@@ -6,7 +6,7 @@ PulseMaker is a live, AI-driven trading ecosystem built on Solana, designed to d
 
 **No hype narratives. Only systems that work.**
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/pulsemakersol)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PulsemakerZ)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/PulseMaker)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulsemaker)
 
@@ -293,7 +293,7 @@ PulseMaker-Webside/
 ## 🔗 Links
 
 - **Website**: [https://pulsemaker.io](https://pulsemaker.io)
-- **Twitter**: [@pulsemakersol](https://x.com/pulsemakersol)
+- **Twitter**: [@pulsemakersol](https://x.com/PulsemakerZ)
 - **Telegram**: [t.me/PulseMaker](https://t.me/PulseMaker)
 - **GitHub**: [github.com/pulsemaker](https://github.com/pulsemaker)
 

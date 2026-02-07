@@ -18,7 +18,7 @@ const Footer = () => {
             { name: 'FAQ', href: '#' },
         ],
         Community: [
-            { name: 'Twitter', href: 'https://x.com/pulsemakersol' },
+            { name: 'Twitter', href: 'https://x.com/PulsemakerZ' },
             { name: 'Telegram', href: 'https://t.me/PulseMaker' },
             { name: 'GitHub', href: 'https://github.com/pulsemaker' },
         ],
@@ -74,7 +74,7 @@ const Footer = () => {
                     {/* Social Icons */}
                     <div className="flex items-center gap-4">
                         {[
-                            { name: 'twitter', url: 'https://x.com/pulsemakersol' },
+                            { name: 'twitter', url: 'https://x.com/PulsemakerZ' },
                             { name: 'telegram', url: 'https://t.me/PulseMaker' },
                             { name: 'github', url: 'https://github.com/pulsemaker' },
                         ].map((social) => (

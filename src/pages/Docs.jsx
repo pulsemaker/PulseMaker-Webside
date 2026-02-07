@@ -428,7 +428,7 @@ const Docs = () => {
                                 <h2 className="text-2xl font-bold text-white mb-6">Join the Community</h2>
                                 <div className="flex items-center justify-center gap-4">
                                     {[
-                                        { name: 'Twitter', url: 'https://x.com/pulsemakersol', icon: Activity },
+                                        { name: 'Twitter', url: 'https://x.com/PulsemakerZ', icon: Activity },
                                         { name: 'Telegram', url: 'https://t.me/PulseMaker', icon: Send },
                                         { name: 'GitHub', url: 'https://github.com/pulsemaker', icon: Github },
                                     ].map((social) => (
